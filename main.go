@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"strings"
 
-	v40 "github.com/monitoringartist/go-zabbix/v40"
-	v44 "github.com/monitoringartist/go-zabbix/v44"
+	v40 "github.com/monitoringartist/go-zabbix/tree/v40"
+	v44 "github.com/monitoringartist/go-zabbix/tree/v44"
 	"gopkg.in/yaml.v3"
 )
 
